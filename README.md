@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulRehman
 - 👀 I’m interested in learning web develpment
-- 🌱 I’m currently learning ... Python and ML
+- 🌱 I’m currently a student and i am learning some skills
 - 
 <!---
 unknownaz/unknownaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
